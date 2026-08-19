@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-hidden="true">
+  <rect width="64" height="64" rx="10" fill="#12151c"/>
+  <path d="M10 29 L32 12 L54 29" fill="none" stroke="#f6f2e9" stroke-width="2.6" stroke-linejoin="round"/>
+  <path d="M17 20 V11 H24" fill="none" stroke="#f6f2e9" stroke-width="2.6" stroke-linecap="square"/>
+  <text x="8" y="50" font-family="Arial Black, Helvetica, sans-serif" font-size="17" font-weight="800" fill="#f6f2e9">DDL</text>
+  <path d="M6 46 L18 54" stroke="#f6f2e9" stroke-width="2.2" stroke-linecap="round"/>
+  <ellipse cx="21" cy="55" rx="6.2" ry="3.4" transform="rotate(32 21 55)" fill="#3d70b8"/>
+</svg>
